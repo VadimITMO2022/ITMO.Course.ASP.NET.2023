@@ -1,0 +1,35 @@
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\PartyInvites.dll
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\RSVP.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\RSVP.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\vadim\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\bin\PartyInvites.dll
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\obj\Debug\RSVP.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\obj\Debug\RSVP.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\vadim\source\ASP.NET\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\bin\PartyInvites.dll
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\bin\PartyInvites.pdb
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\obj\Debug\RSVP.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\obj\Debug\RSVP.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\vadim\source\ИТМО\8.ASP.NET\ASP.NET\RSVP\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\bin\PartyInvites.dll
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\bin\PartyInvites.pdb
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\obj\Debug\RSVP.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\obj\Debug\RSVP.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\vadim\source\ИТМО\8.ASP.NET\задание\RSVP\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\bin\PartyInvites.dll
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\bin\PartyInvites.pdb
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\obj\Debug\RSVP.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\obj\Debug\RSVP.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\vadim\source\ИТМО\8.ASP.NET\Зачетное задание\RSVP\PartyInvites\obj\Debug\PartyInvites.pdb
